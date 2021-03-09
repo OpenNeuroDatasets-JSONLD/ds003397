@@ -4,5 +4,5 @@ This dataset comprises of n=15 individuals who underwent simultaneous MRI-PET im
 
 UTE: /sub-*/ute
 Dixon: /sub-*/dixon
-Reconstrcuted PET: /sub-*/func/*pet
+Reconstrcuted PET: /sub-*/pet
 listmode data: /sourcedata/sub-*/pet
