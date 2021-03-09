@@ -1,6 +1,5 @@
-*_not_bids.txt
-sub-*/ute/
-sub-*/dixon/
-sub-*/func/*pet*
-pet_info
+./sub-*/ute/*
+./sub-*/dixon/*
+./sub-*/pet/*
+./pet_info/*
 
