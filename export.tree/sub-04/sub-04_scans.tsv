@@ -1,0 +1,7 @@
+filename	acq_time	operator	randstr
+anat/sub-04_run-1_T1w.nii.gz	2018-10-08T12:38:02	n/a	97a55f14
+fmap/sub-04_run-1_magnitude1.nii.gz	2018-10-08T12:53:20	n/a	5452dcb1
+fmap/sub-04_run-1_magnitude2.nii.gz	2018-10-08T12:53:20	n/a	5452dcb1
+fmap/sub-04_run-1_phasediff.nii.gz	2018-10-08T12:53:20	n/a	0e8b570d
+func/sub-04_task-checkerboard_run-1_bold.nii.gz	2018-10-08T13:00:47	n/a	262413f9
+
