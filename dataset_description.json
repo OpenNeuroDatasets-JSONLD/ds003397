@@ -18,7 +18,7 @@
         "ARC Discovery Early Career Researcher Award (DE150100406)",
         "National Health and Medical Research Council Fellowship (APP1174164)"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "HowToAcknowledge": "Please cite this paper:\nJamadar, Liang, Zhong, Ward, Carey, McIntyre, Chen, Egan (2021). Monash DaCRA fPET-fMRI: A DAtaset for Comparison of Radiotracer Administration for high temporal resolution functional FDG-PET. bioRXiv, https://doi.org/10.1101/2021.08.02.454708",
     "License": "CC0",
     "Name": "Monash DaCRA fPET-fMRI",
     "ReferencesAndLinks": [
