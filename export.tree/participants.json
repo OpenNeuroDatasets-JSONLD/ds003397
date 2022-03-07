@@ -1,0 +1,131 @@
+{
+  "participant_id": {
+    "Description": "participant identifier"
+  },
+  "group": {
+    "Description": "groups of different injection types"
+  },
+  "hb": {
+    "Description": "Haemoglobin"
+  },
+  "bsl": {
+    "Description": "Blood sugar level"
+  },
+  "age": {
+    "Description": "Age in years"
+  },
+  "gender": {
+    "Description": "self-rated by participant, M for male/F for female"
+  },
+  "handedness": {
+    "Description": "handedness of the participant as reported by the participant"
+  },
+  "yrs_of_education": {
+    "Description": "years of education calculated as formal education of 6 months or more. starts from the first year of primary/elementary school onwards"
+  },
+  "highest_level_education_completed": {
+    "Description": "the highest level of formal education completed (i.e., does not include uncompleted education or education currently undertaken)"
+  },
+  "english_as_first_language": {
+    "Description": "english as first language"
+  },
+  "visual_impairment": {
+    "Description": "any kind of vision impairment including wearing reading glasses"
+  },
+  "visual_impairment_specify": {
+    "Description": "description of visual impairment"
+  },
+  "hearing_impairment": {
+    "Description": "whether the participant has hearing impairment"
+  },
+  "hearing_impairment_specify": {
+    "Description": "specify the kind of hearing impairment"
+  },
+  "personal_history_mental_illness": {
+    "Description": "whether the participant has history mental illness"
+  },
+  "personal_history_mental_illness_specify": {
+    "Description": "diagnosis or treatment of whether the person has received a diagnosis for any Axis I psychiatric condition"
+  },
+  "personal_history_mental_illness_ever_diagnosed": {
+    "Description": "Whether the person has a current or previous mental illness ever diagnosed"
+  },
+  "personal_history_mental_illness_receive_treatment": {
+    "Description": "Whether the person diagnosed with mental illness disease received treatment"
+  },
+  "family_history_mental_illness": {
+    "Description": "whether the participant has family history mental illness"
+  },
+  "family_health_mental_illness_specify": {
+    "Description": "diagnosis or treatment of the family member’s psychiatric condition"
+  },
+  "personal_history_mental_illness_ever_diagnosed": {
+    "Description": "Whether a family member had suspected or diagnosed mental illness"
+  },
+  "family_history_dementia": {
+    "Description": "Whether a family member had suspected or diagnosed dementia"
+  },
+  "family_history_dementia_specify": {
+    "Description": "specify the family member had suspected or diagnosed dementia and the condition"
+  },
+  "family_history_dementia_ever_diagnosed": {
+    "Description": "Whether the family member had diagnosed dementia"
+  },
+  "cardiovascular_illness_ever": {
+    "Description": "Whether the person has a current or previous cardiovascular condition"
+  },
+  "diabetes_diabetes_ever": {
+    "Description": "Whether the person has a current or previous diabetes diagnosis"
+  },
+  "current_tobacco": {
+    "Description": "Whether the person has tobacco currently"
+  },
+  "current_tobacco_average_how_many_per_day": {
+    "Description": "how many tobacco average per day"
+  },
+  "ever_smoked": {
+    "Description": "whether the participant ever smoked"
+  },
+  "ever_smoked_average_how_many_per_day": {
+    "Description": "how many ever smoked in average"
+  },
+  "ever_consumed_alcohol": {
+    "Description": "whether the participant ever consumed alcohol"
+  },
+  "alcohol_how_often": {
+    "Description": "how often the person drinks"
+  },
+  "standard_drinks_per_drinkinig_occasion": {
+    "Description": "how many standard drinks per occasion"
+  },
+  "recreational_drugs_last_6_months": {
+    "Description": "used recreational drugs in last 6 months"
+  },
+  "recreational_drugs_specify": {
+    "Description": "description of recreational drugs used in last 6 months"
+  },
+  "recreational_drugs_how_often": {
+    "Description": "how often the recreational drugs were used in last 6 months"
+  },
+  "bolus_mbq":{
+    "Description":"bolus injection volume"
+  },
+  "infusion_mbq":{
+    "Description":"infusion injection volume"
+  },
+  "total_infusion_duration":{
+    "Description": "total infusion duration in hour:minute:second"
+  },
+  "pet_scan_start": {
+    "Description": "PET scan start time"
+  },
+  "bolus_injection":{
+    "Description": "bolus injection start time in hour:minute:second"
+  },
+  "infusion_start_time":{
+    "Description": "infusion start time in hour:minute:second"
+  },
+  "epi_start_time":{
+    "Description": "EPI sequence start time in hour:minute:second"
+  }
+}
