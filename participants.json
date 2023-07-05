@@ -243,5 +243,28 @@
   },
   "drugs_how_often": {
     "Description": "how often the recreational drugs were used in last 6 months"
+  },
+  "visual_impairments": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Diagnosis",
+        "Label": ""
+      },
+      "Levels": {
+        "Yes": {
+          "TermURL": "snomed:397540003",
+          "Label": ""
+        },
+        "yes": {
+          "TermURL": "snomed:397540003",
+          "Label": ""
+        }
+      },
+      "MissingValues": [
+        "No",
+        "no"
+      ]
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   }
 }
