@@ -6,7 +6,7 @@
         "TermURL": "nb:ParticipantID",
         "Label": ""
       },
-      "Identifies": "participant"
+      "VariableType": "Identifier"
     }
   },
   "group": {
@@ -25,15 +25,16 @@
         "TermURL": "nb:Age",
         "Label": ""
       },
-      "Transformation": {
-        "TermURL": "nb:FromInt",
-        "Label": "integer data"
-      },
       "MissingValues": [
         "",
         "n/a",
         " "
-      ]
+      ],
+      "Format": {
+        "TermURL": "nb:FromInt",
+        "Label": "integer data"
+      },
+      "VariableType": "Continuous"
     }
   },
   "gender": {
@@ -52,7 +53,8 @@
           "TermURL": "snomed:248153007",
           "Label": ""
         }
-      }
+      },
+      "VariableType": "Categorical"
     }
   },
   "handedness": {
@@ -116,7 +118,8 @@
         " ",
         "nan",
         "n/a"
-      ]
+      ],
+      "VariableType": "Categorical"
     }
   },
   "hearing_impairment": {
@@ -141,7 +144,8 @@
       "MissingValues": [
         "No",
         "no"
-      ]
+      ],
+      "VariableType": "Categorical"
     }
   },
   "mental_illness_history_specify": {
@@ -179,7 +183,8 @@
       "MissingValues": [
         "No",
         "no"
-      ]
+      ],
+      "VariableType": "Categorical"
     }
   },
   "diabetes": {
@@ -193,7 +198,8 @@
       "MissingValues": [
         "No",
         "no"
-      ]
+      ],
+      "VariableType": "Categorical"
     }
   },
   "current_tobacco": {
@@ -225,7 +231,8 @@
         " ",
         "nan",
         "n/a"
-      ]
+      ],
+      "VariableType": "Categorical"
     }
   },
   "ever_smoked": {
@@ -274,7 +281,8 @@
       "MissingValues": [
         "No",
         "no"
-      ]
+      ],
+      "VariableType": "Categorical"
     },
     "Description": "There should have been a description here, but there wasn't. :("
   }
